@@ -4,10 +4,10 @@
 #include <Servo.h>
 
 //Inisialisasi pembuatan variable
-int servo =10;
-int buzzerPin =11;
-int triger =2;
-int echo =3;
+int servo =7;
+int buzzerPin =6;
+int triger =3;
+int echo =2;
 int batas =200; //Maksimal 400 cm
 int kunci1;
 int kunci2;
@@ -57,14 +57,14 @@ if (bacaJarak <20){
   case 1:
   if (kunci2 ==0){
     digitalWrite(buzzerPin,HIGH);
-    delay(100);
+    delay(1000);
     digitalWrite(buzzerPin,LOW);
     delay(500);
     kunci2=1;
     }else{
       lcd.clear();lcd.setCursor(1,0);lcd.print("SILAHKAN MASUK");
       myServo.write(90);
-      delay(1000);
+      delay(500);
       }
   }else{
     myServo.write(0);
