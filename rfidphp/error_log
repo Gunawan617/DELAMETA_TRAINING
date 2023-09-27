@@ -1,0 +1,127 @@
+[25-Feb-2021 14:57:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/junb5944/public_html/skripsi/export_excel.php:1) in /home/junb5944/public_html/skripsi/export_excel.php on line 31
+[25-Feb-2021 14:57:43 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/junb5944/public_html/skripsi/export_excel.php:1) in /home/junb5944/public_html/skripsi/export_excel.php on line 32
+[25-Feb-2021 14:57:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/junb5944/public_html/skripsi/export_excel.php:1) in /home/junb5944/public_html/skripsi/export_excel.php on line 31
+[25-Feb-2021 14:57:55 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/junb5944/public_html/skripsi/export_excel.php:1) in /home/junb5944/public_html/skripsi/export_excel.php on line 32
+[25-Feb-2021 15:00:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:17 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:17 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/data-tables.php on line 124
+[25-Feb-2021 15:00:17 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/junb5944/public_html/skripsi/data-tables.php on line 126
+[25-Feb-2021 15:00:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on bool in /home/junb5944/public_html/skripsi/data-tables.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/junb5944/public_html/skripsi/data-tables.php on line 137
+[25-Feb-2021 15:00:18 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/data-tables.php on line 124
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/junb5944/public_html/skripsi/data-tables.php on line 126
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function close() on bool in /home/junb5944/public_html/skripsi/data-tables.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/junb5944/public_html/skripsi/data-tables.php on line 137
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:00:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/junb5944/public_html/skripsi/koneksidb.php on line 10
+[25-Feb-2021 15:00:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/junb5944/public_html/skripsi/koneksidb.php on line 14
+[25-Feb-2021 15:00:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/junb5944/public_html/skripsi/koneksidb.php on line 16
+[25-Feb-2021 15:13:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/junb5944/public_html/skripsi/hapusdata.php:8) in /home/junb5944/public_html/skripsi/hapusdata.php on line 15
+[25-Feb-2021 15:15:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/junb5944/public_html/skripsi/hapusdata.php:8) in /home/junb5944/public_html/skripsi/hapusdata.php on line 9
+[25-Feb-2021 15:15:27 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/junb5944/public_html/skripsi/hapusdata.php:8) in /home/junb5944/public_html/skripsi/hapusdata.php on line 16

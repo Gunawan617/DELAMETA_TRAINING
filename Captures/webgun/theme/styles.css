@@ -1,0 +1,47 @@
+/* styles.css */
+.profile {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: grid; /* Menggunakan CSS Grid */
+    grid-template-rows: auto 1fr; /* Dua baris, yang pertama otomatis tinggi, yang kedua mengisi sisa ruang */
+    gap: 20px; /* Jarak antara baris */
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto; /* Mengatur gambar agar terpusat di dalam kotak */
+}
+
+/* Style untuk teks di bawah gambar */
+.profile .info {
+    text-align: center;
+}
+
+.profile h1 {
+    font-size: 24px;
+    margin-top: 10px;
+    color: #333;
+}
+
+.profile p {
+    font-size: 18px;
+    color: #777;
+}
+
+.profile ul {
+    list-style: none;
+    padding: 0;
+}
+
+.profile ul li {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 5px;
+}
